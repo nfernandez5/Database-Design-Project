@@ -1,0 +1,23 @@
+﻿  DisplayInterface.cpp
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(152,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(279,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(323,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(337,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(352,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(420,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(489,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(507,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(538,9): warning C4101: 'SKU': unreferenced local variable
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(538,14): warning C4101: 'ID': unreferenced local variable
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(620,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(625,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(640,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(651,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(671,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(687,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\USF\USF Things\Database\DatabaseFinalProject\DisplayInterface.cpp(587,9): warning C4101: 'SKU': unreferenced local variable
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 518 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DatabaseFinalProject.vcxproj -> D:\USF\USF Things\Database\DatabaseFinalProject\x64\Release\DatabaseFinalProject.exe
